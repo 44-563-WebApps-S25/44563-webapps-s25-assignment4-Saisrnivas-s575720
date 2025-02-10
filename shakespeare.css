@@ -1,0 +1,42 @@
+/* Style for character names */
+.name {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: black;
+}
+
+/* Style for speeches */
+.speech {
+    font-family: Times New Roman, serif;
+    font-size: 1em;
+    color: black;
+}
+
+/* Style for stage directions */
+.stage-direction {
+    font-family: Arial, sans-serif;
+    font-size: 0.9em;
+    color: black;
+    background-color: #f0f0f0; /* Light background */
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Hover effect for stage directions */
+.stage-direction:hover {
+    background-color: #ccc;
+    color: white;
+}
+
+/* Define colors for each character */
+.imogen {
+    color: blue;
+}
+
+.pisanio {
+    color: green;
+}
+
+.iachimo {
+    color: red;
+}
