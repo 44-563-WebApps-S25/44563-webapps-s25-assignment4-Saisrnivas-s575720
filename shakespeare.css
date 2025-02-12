@@ -18,9 +18,9 @@ body {
     font-weight: bold;
     font-size: 20px;
 }
-.romeo { color: red; }
-.benvolio { color: purple; }
-.mercutio { color: orange}
+.basset { color: rgb(202, 227, 16); }
+.vernon { color: rgb(38, 38, 165); }
+.tablot { color: orange}
 
 table {
     border-collapse: collapse;
@@ -41,7 +41,7 @@ tr:nth-child(even) {
 }
 
 nav {
-    background-color: rgb(157, 44, 44);
+    background-color: rgb(49, 44, 44);
     padding: 10px;
     text-align: center;
 }
