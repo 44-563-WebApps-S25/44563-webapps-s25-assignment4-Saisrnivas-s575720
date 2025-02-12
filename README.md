@@ -2,7 +2,7 @@
 # WebApps-S25-Assignment-4
 A practice assignment for HTML with CSS
 <<<<<<< HEAD
-Hosted at [GitHub Pages]( https://44-563-webapps-s25.github.io/44563-webapps-s25-assignment4-pages-Saisrnivas-s575720/play.html))
+Hosted at [GitHub Pages]( https://44-563-webapps-s25.github.io/44563-webapps-s25-assignment4-pages-Saisrnivas-s575720/Play.html))
 =======
  pages Hosted by : https://44-563-webapps-s25.github.io/44563-webapps-s25-assignment4-pages-Saisrnivas-s575720/play.html
 >>>>>>> 6dc2f7e33a6ebc192ff71b02fa1df2953b2ea004
