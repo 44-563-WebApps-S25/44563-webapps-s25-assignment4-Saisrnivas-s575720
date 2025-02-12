@@ -1,42 +1,53 @@
-/* Style for character names */
-.name {
-    font-family: Georgia, serif;
-    font-size: 1.2em;
-    color: black;
+body {
+    font-family: "Georgia", serif;
 }
-
-/* Style for speeches */
 .speech {
-    font-family: Times New Roman, serif;
-    font-size: 1em;
+    font-size: 18px;
     color: black;
 }
-
-/* Style for stage directions */
 .stage-direction {
-    font-family: Arial, sans-serif;
-    font-size: 0.9em;
-    color: black;
-    background-color: #f0f0f0; /* Light background */
+    font-size: 16px;
+    background-color: lightgray;
     padding: 5px;
-    border-radius: 5px;
 }
-
-/* Hover effect for stage directions */
 .stage-direction:hover {
-    background-color: #ccc;
+    background-color: darkgray;
     color: white;
 }
+.name {
+    font-weight: bold;
+    font-size: 20px;
+}
+.romeo { color: red; }
+.benvolio { color: purple; }
+.mercutio { color: orange}
 
-/* Define colors for each character */
-.imogen {
-    color: blue;
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
 }
 
-.pisanio {
-    color: green;
+.name:hover {
+    text-shadow: 2px 2px 5px blue;
+    border-bottom: 2px solid blue;
 }
 
-.iachimo {
-    color: red;
+nav {
+    background-color: rgb(157, 44, 44);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
 }
